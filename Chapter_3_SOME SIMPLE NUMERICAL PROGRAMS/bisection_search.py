@@ -6,8 +6,8 @@ Approximating the square root using bisection search
 
 """
 # x = 25 # Answer is 5
-# x = 123456 # Answer is 351.363060095964
-x = -25
+x = 123456 # Answer is 351.363060095964 = 30 Guesses
+# x = -25
 epsilon = 0.01
 numGuesses = 0 
 low = 0.0
