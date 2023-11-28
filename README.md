@@ -4,7 +4,7 @@ Introduction to Computation and Programming Using Python, Second Edition
 ## Python 3.5 Quick Reference
 
 ### Common operations on numerical types 
-$i+j$ is the sum of $i$ and $j$. 
+$i+j$ is the sum of $i$ and $j$. /n
 $i–j$ is $i$ minus $j$. 
 $i*j$ is the product of $i$ and $j$. 
 $i//j$ is integer division. 
