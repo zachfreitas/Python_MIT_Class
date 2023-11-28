@@ -4,13 +4,13 @@ Introduction to Computation and Programming Using Python, Second Edition
 ## Python 3.5 Quick Reference
 
 ### Common operations on numerical types 
-**i+j**is the sum of $i$ and $j$. \
+**i+j** is the sum of $i$ and $j$. \
 **i–j** is $i$ minus $j$. \
 **i*j** is the product of $i$ and $j$. \
 **i//j** is integer division. \
 **i/j** is floating point division. \
 **i%j** is the remainder when the int $i$ is divided by the int $j$. \
-**i\*\*j** is $i$ raised to the power $j$. \
+**i/*/*j** is $i$ raised to the power $j$. \
 **x += y** is equivalent to $x = x + y$. $*=$ and $-=$ work the same way. 
 
 ### Comparison and Boolean operators 
